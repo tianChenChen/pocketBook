@@ -1,0 +1,19 @@
+<view class='index'>
+  <!-- head -->
+  <view class='index-header'>
+  
+  </view>
+  <!-- 几类板块 -->
+  <scroll-view class='index-block' scroll-x>
+    <view class='index-block-nav'>
+      <view class='index-block-item'>收入</view>
+      <view class='index-block-item'>支出</view>
+      <view class='index-block-item'>外债</view>
+      <view class='index-block-item'>红包</view>
+    </view>
+  </scroll-view >
+  <!-- 相关联得人 -->
+  <view class='index-person'>
+  
+  </view>
+</view>

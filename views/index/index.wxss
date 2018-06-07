@@ -1,0 +1,32 @@
+page{
+  height:100%;
+}
+.index{
+  width:100%;
+  height:100%;
+  border: 1px solid red;
+}
+.index-header{
+  width:100%;
+  height:485rpx;
+  background-color: #30a2fd;
+}
+.index-block{
+  width:100%;
+  height:200rpx;
+}
+.index-block-nav{
+  width:200%;
+}
+.index-block-item{
+  width: 225rpx;
+  height: 160rpx;
+  display: inline-block;
+  border-radius: 10rpx;
+  margin:30rpx 10rpx;
+  background-color: #80dbcf
+}
+
+.index-person{
+  
+}

@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "views/index/index",
+    "views/income/income",
+    "views/expenditure/expenditure",
+    "views/debt/debt",
+    "views/redPacket/redPacket",
+    "views/add/add",
+    "views/setup/setup"
+  ],
+  "window": {
+    "navigationBarTitleText": "记账本"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "views/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "views/add/add",
+        "text": "添加"
+      },
+      {
+        "pagePath": "views/setup/setup",
+        "text": "设置"
+      }
+    ]
+  }
+}
