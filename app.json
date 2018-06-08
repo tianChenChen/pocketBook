@@ -19,11 +19,19 @@
       },
       {
         "pagePath": "views/add/add",
+        "text": "账单"
+      },
+      {
+        "pagePath": "views/add/add",
         "text": "添加"
       },
       {
+        "pagePath": "views/add/add",
+        "text": "相关人"
+      },
+      {
         "pagePath": "views/setup/setup",
-        "text": "设置"
+        "text": "我的"
       }
     ]
   }
