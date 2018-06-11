@@ -11,8 +11,13 @@ page{
   height:485rpx;
   background-color: #30a2fd;
 }
+.index-header-month{
+  color: #fff;
+  text-align: center;
+  padding:20rpx;
+}
 .index-header-over{
-  padding:50rpx 60rpx;
+  padding:20rpx 60rpx;
 }
 .index-header-over-text{
   display: block;

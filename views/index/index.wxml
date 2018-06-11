@@ -1,6 +1,7 @@
 <view class='index'>
   <!-- head -->
   <view class='index-header'>
+    <view class='index-header-month'>3月</view>
     <view class='index-header-over'>
       <text class='index-header-over-text'>资产(元)</text>
       <text class='index-header-over-money'>2000</text>
@@ -39,7 +40,7 @@
   <view class='index-order'>
     <text>最近订单</text>
     <view class='index-order-item'>
-      
+
     </view>
   </view>
 </view>
