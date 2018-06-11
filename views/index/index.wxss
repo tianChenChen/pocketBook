@@ -11,6 +11,33 @@ page{
   height:485rpx;
   background-color: #30a2fd;
 }
+.index-header-over{
+  padding:50rpx 60rpx;
+}
+.index-header-over-text{
+  display: block;
+  color: #fff;
+  font-size:30rpx;
+}
+.index-header-over-money{
+  display: block;
+  font-size:60rpx;
+  color: #fff;
+  padding:10rpx 0;
+}
+.index-header-item{
+  padding:0rpx 60rpx;
+  width:50%;
+  box-sizing: border-box;
+  float: left;
+}
+.index-header-over-income{
+  display: block;
+  font-size:45rpx;
+  color: #fff;
+  padding:20rpx 0;
+}
+
 .index-block{
   width:100%;
   height:200rpx;
@@ -25,6 +52,19 @@ page{
   border-radius: 10rpx;
   margin:30rpx 10rpx;
   background-color: #80dbcf
+}
+.index-block-item-money{
+  color: #fff;
+  display: block;
+  text-align: center;
+  font-size:35rpx;
+  padding:28rpx 0;
+}
+.index-block-item-text{
+  display: block;
+  font-size: 25rpx;
+  text-align: center;
+  color: #fff;
 }
 
 .index-person{
