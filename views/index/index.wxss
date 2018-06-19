@@ -10,6 +10,7 @@ page{
   width:100%;
   height:485rpx;
   background-color: #30a2fd;
+  position: relative;
 }
 .index-header-month{
   color: #fff;
@@ -26,9 +27,24 @@ page{
 }
 .index-header-over-money{
   display: block;
-  font-size:60rpx;
+  font-size:80rpx;
   color: #fff;
   padding:10rpx 0;
+}
+.index-header-time{
+  text-align: center;
+  background-color: #fff;
+  width:60%;
+  margin-left:20%;
+  height:98rpx;
+  line-height: 98rpx;
+  border-radius: 50rpx;
+  position: absolute;
+  bottom: -40rpx;
+  box-shadow: 0rpx 10rpx 10rpx #eeeeff;
+}
+.index-header-time-text{
+  color: #333;
 }
 .index-header-item{
   padding:0rpx 60rpx;
@@ -45,10 +61,11 @@ page{
 
 .index-block{
   width:100%;
-  height:200rpx;
+  height:300rpx;
 }
 .index-block-nav{
   width:200%;
+  margin-top:60rpx;
 }
 .index-block-item{
   width: 225rpx;
@@ -56,7 +73,8 @@ page{
   display: inline-block;
   border-radius: 10rpx;
   margin:30rpx 10rpx;
-  background-color: #80dbcf
+  background-color: #80dbcf;
+  box-shadow: 0rpx 10rpx 10rpx #eeeeff;
 }
 .index-block-item-money{
   color: #fff;
@@ -72,6 +90,13 @@ page{
   color: #fff;
 }
 
-.index-person{
-  
+.index-order{
+  padding:0 30rpx;
+}
+.index-order-text{
+  font-size:30rpx;
+}
+.index-order-item{
+  border-left:3px solid #ffda79;
+  height:180rpx;
 }
