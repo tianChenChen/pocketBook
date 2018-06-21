@@ -15,15 +15,21 @@
     "list": [
       {
         "pagePath": "views/index/index",
-        "text": "首页"
+        "text": "首页",
+        "iconPath": "/assets/images/home.png",
+        "selectedIconPath": "/assets/images/home_active.png"
       },
       {
         "pagePath": "views/add/add",
-        "text": "账单"
+        "text": "账单",
+        "iconPath": "/assets/images/book.png",
+        "selectedIconPath": "/assets/images/book_active.png"
       },
       {
         "pagePath": "views/add/add",
-        "text": "添加"
+        "text": "添加",
+        "iconPath": "/assets/images/add.png",
+        "selectedIconPath": "/assets/images/add_active.png"
       },
       {
         "pagePath": "views/add/add",
@@ -31,7 +37,9 @@
       },
       {
         "pagePath": "views/setup/setup",
-        "text": "我的"
+        "text": "我的",
+        "iconPath": "/assets/images/me.png",
+        "selectedIconPath": "/assets/images/me_active.png"
       }
     ]
   }
